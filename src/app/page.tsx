@@ -47,7 +47,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-2xl font-bold text-gray-800 mb-3">Cálculos Trabalhistas</h3>
-              <p className="text-gray-600 mb-6">Ferramentas avançadas para liquidação de sentenças, rescisões e cálculos de horas extras com máxima precisão legal.</p>
+              <p className="text-gray-600 mb-6">• Atividades de análises e liquidações em processos trabalhistas <br />• elaboração de cálculos de contingência como estimativas de condenação em inicial e liquidação de acordos <br />impugnação em diversas fases do processo como Inicial, Sentença, Acórdão. <br /> Confecção de cálculos e apresentação de valores controversos e incontroversos, contribuições previdenciárias e fiscais, apuração de verbas rescisórias, horas extras, comissões, adicional noturno, FGTS, correção monetária, e demais verbas acessórias. Confecção de cálculos em sistema PjeCalc atendendo a legislação do direito trabalhista.</p>
               <Link href="/calculadoras/calculos-trabalhistas" className="text-olive-600 font-semibold hover:text-olive-800 flex items-center gap-2 group">
                 Saiba mais
                 <span className="group-hover:translate-x-1 transition-transform">→</span>
@@ -65,7 +65,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-2xl font-bold text-gray-800 mb-3">Perícias Judiciais</h3>
-              <p className="text-gray-600 mb-6">Suporte técnico especializado em perícias contábeis e financeiras para processos judiciais complexos.</p>
+              <p className="text-gray-600 mb-6">Suporte técnico especializado em perícias contábeis e financeiras para processos judiciais complexos. Apresentação de parecer e subsídios para advocacias nas condenações, liquidações e execuções trabalhistas</p>
               <Link href="/calculadoras/pericias" className="text-olive-600 font-semibold hover:text-olive-800 flex items-center gap-2 group">
                 Saiba mais
                 <span className="group-hover:translate-x-1 transition-transform">→</span>
